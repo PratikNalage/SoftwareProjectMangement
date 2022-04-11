@@ -1,1 +1,2 @@
-# SoftwareProjectMangement
+# SoftwareProjectMangement Infinity Travel
+Infinity Travel is an all-in-one application that allows users to book, monitor, and manage their travel in one location. For individual travelers who need to travel to another city, the Infinity Travel app is effective for booking the most beneficial flight, hotel, and rental cars, as well as recording their preferences. It searches through thousands of listings to provide cost-efficient travel options and gives users variety in terms of the kind of services they need throughout their journey. Infinity travel is a flexible application that allows users to easily change or cancel their reservations online. It also allows you to use multiple payment methods for easy purchases. 
